@@ -49,14 +49,6 @@ Workout-and-diet-recommendation-system/
 
 ---
 
-# Ports Used
-
-| Service | Port |
-|----------|------|
-| Backend | 3000 |
-| ML Service | 5001 |
-
----
 
 # Features
 
